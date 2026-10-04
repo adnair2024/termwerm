@@ -31,3 +31,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Binaries
+termwerm
+
+# Generated audit reports
+termwerm-audit.md
