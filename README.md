@@ -1,5 +1,9 @@
 # termwerm
 
+[![Go Version](https://img.shields.io/github/go-mod/go-version/adnair2024/termwerm)](https://github.com/adnair2024/termwerm)
+[![Go Report Card](https://goreportcard.com/badge/github.com/adnair2024/termwerm)](https://goreportcard.com/report/github.com/adnair2024/termwerm)
+[![License](https://img.shields.io/github/license/adnair2024/termwerm)](LICENSE)
+
 Zero-bloat, zero-CGO terminal UI tool in Go to audit function algorithmic efficiency across codebases. Fast, keyboard-driven, and plain-English.
 
 ## Features
@@ -15,6 +19,9 @@ Zero-bloat, zero-CGO terminal UI tool in Go to audit function algorithmic effici
 ## Installation & Running
 
 ```bash
+# One-liner install
+go install github.com/adnair2024/termwerm@latest
+
 # Run directly with Go
 go run . [path]
 
