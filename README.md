@@ -6,6 +6,8 @@
 
 Zero-bloat, zero-CGO terminal UI tool in Go to audit function algorithmic efficiency across codebases. Fast, keyboard-driven, and plain-English.
 
+![termwerm demo](docs/demo.gif)
+
 ## Features
 - **Multi-Language Support:** Scans Go, Python, Lua, JavaScript, TypeScript, Rust, C, C++, Java, C# files.
 - **Scope & Recursion Engine:** Accurately detects nested loop depths and recursive calls without external compilers.
